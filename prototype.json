@@ -1,0 +1,22 @@
+{
+	"Users": [
+		{
+			"_id": 1,
+			"username": "aubrey",
+			"img": "dp.jpg",
+			"contacts": [
+				{
+					"_id": 1,
+					"contactid": 2,
+					"dp": "dp2.jpg",
+					"message": "hey",
+					"messages": [{
+						"id": 1,
+						"contactid": 2,
+						"message": "hey"
+					}]
+				}
+			]
+		}
+	]
+}
