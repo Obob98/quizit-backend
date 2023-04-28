@@ -1,12 +1,12 @@
 {
-    "name": "mongongoose",
+    "name": "quizit",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "node server"
+        "start": "node server.js"
     },
-    "author": "",
+    "author": "Aubrey Nyasulu",
     "license": "ISC",
     "dependencies": {
         "cors": "^2.8.5",

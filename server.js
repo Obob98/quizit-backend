@@ -1,4 +1,5 @@
 require('dotenv').config()
+const path = require('node:path')
 const express = require('express')
 const connectDB = require('./config/connectDB')
 const cors = require('cors')
@@ -13,6 +14,12 @@ app.use(cors())
 // ROUTES
 app.use('/quizit/api/v1/users', require('./routes/userRoutes'))
 // app.use('/quizit/api/v1/test', require('./routes/textRoutes'))
+
+// LINKING THE BUILD FE FOLDER
+app.use(express.static(path.join(__dirname, './build')))
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, './build/index.html' ))
+})
 
 // ERROR HANDLER MIDDLEWARE
 const errorHandler = require('./middleware/errorHandler')
