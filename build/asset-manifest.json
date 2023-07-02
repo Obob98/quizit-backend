@@ -1,14 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.10daab64.css",
-    "main.js": "/static/js/main.a405de08.js",
+    "main.css": "/static/css/main.157cd290.css",
+    "main.js": "/static/js/main.0a8130b5.js",
+    "static/media/HeaderBG.jpg": "/static/media/HeaderBG.516ed76feddcab566969.jpg",
+    "static/media/HeaderVisual2.jpg": "/static/media/HeaderVisual2.fac761bfb33d1b785445.jpg",
+    "static/media/TreamourCard.jpg": "/static/media/TreamourCard.9cd14ac88a9493881441.jpg",
+    "static/media/JantaCard.jpg": "/static/media/JantaCard.1de0ab0a85de8772f376.jpg",
+    "static/media/ContactVisual.png": "/static/media/ContactVisual.94ba9b9a6e3911351ccf.png",
+    "static/media/drueB.png": "/static/media/drueB.014517d6c0671c0c5399.png",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/NoiseVisual.png": "/static/media/NoiseVisual.ec9d95b576dbd96a1b92.png",
+    "static/media/MalcebaCard.jpg": "/static/media/MalcebaCard.b504cee879a122be9b2f.jpg",
+    "static/media/chizmo.jpg": "/static/media/chizmo.76f568f5c88195a1c4fc.jpg",
+    "static/media/AboutVisual.jpg": "/static/media/AboutVisual.d2b50070cf0c75331afb.jpg",
+    "static/media/beejay.jpg": "/static/media/beejay.db987beb832b634c3134.jpg",
+    "static/media/wikise.jpg": "/static/media/wikise.6a929ca7f092860d6ae2.jpg",
     "index.html": "/index.html",
-    "main.10daab64.css.map": "/static/css/main.10daab64.css.map",
-    "main.a405de08.js.map": "/static/js/main.a405de08.js.map"
+    "main.157cd290.css.map": "/static/css/main.157cd290.css.map",
+    "main.0a8130b5.js.map": "/static/js/main.0a8130b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.10daab64.css",
-    "static/js/main.a405de08.js"
+    "static/css/main.157cd290.css",
+    "static/js/main.0a8130b5.js"
   ]
 }
